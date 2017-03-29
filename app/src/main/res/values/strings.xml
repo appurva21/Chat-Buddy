@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatBuddy</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+</resources>

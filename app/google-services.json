@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "468374651714",
+    "firebase_url": "https://chatbuddy-afb61.firebaseio.com",
+    "project_id": "chatbuddy-afb61",
+    "storage_bucket": "chatbuddy-afb61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468374651714:android:3fab7f4af1426db1",
+        "android_client_info": {
+          "package_name": "com.example.appurva.chatbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468374651714-73aul418vuvs8kc43urmt8sm4l4tbchf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrkXmyLzYO_GBR-u78D_WDV7B31fN9mHU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
